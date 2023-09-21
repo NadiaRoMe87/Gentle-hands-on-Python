@@ -1,1 +1,1 @@
-# Gentle-hands-on-Python
+# Python-exercises
